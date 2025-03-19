@@ -1,6 +1,7 @@
 <h1 align="center">
-  <b>Simon Tijanic</b>  
+  <span color="red"><b>Simon Tijanic 💔 Robert Jr. </b></span>
 </h1>
+
 
 <div align="center">
 <b>
